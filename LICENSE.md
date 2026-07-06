@@ -1,4 +1,4 @@
-# 
+# Automático Augment Code plugins. Com modelos híbridos de IA e ajuste fino — otimizado para máximo desempenho e eficiência.
 
 
 
